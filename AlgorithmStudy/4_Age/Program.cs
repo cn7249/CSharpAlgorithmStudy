@@ -2,9 +2,9 @@
 
 public class Solution
 {
-    public int solution(int num1, int num2)
+    public int solution(int age)
     {
-        int answer = num1 * num2;
+        int answer = 2022 - age + 1;
         return answer;
     }
 }
